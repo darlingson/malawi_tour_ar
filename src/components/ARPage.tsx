@@ -1,6 +1,6 @@
-const ARPage = () =>{
-    return(
-        <></>
-    );
-}
-export default ARPage;
+    const ARPage = () =>{
+        return(
+            <></>
+        );
+    }
+    export default ARPage;
