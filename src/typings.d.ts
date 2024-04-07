@@ -3,8 +3,16 @@ declare namespace JSX {
       'a-scene': any;
       'a-marker': any;
       'a-camera-static': any;
-      'a-box': any; // Add other A-Frame elements you might use
-      // Add declarations for other A-Frame elements as needed
+      'a-box': any;
+      'a-entity': any;
+      'a-text': any;
+      'a-sphere': any;
+      'a-plane': any;
+      'a-sky': any;
+      'a-assets': any;
+      'a-image': any;
+      'a-assets-item': any;
+      'a-camera': any;
     }
   }
   
